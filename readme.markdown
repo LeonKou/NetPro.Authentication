@@ -1,5 +1,6 @@
 
 ## Authentication使用
+![.NET Core](https://github.com/LeonKou/NetPro/workflows/.NET%20Core/badge.svg)
  [![NuGet](https://img.shields.io/nuget/v/NetPro.Authentication.svg)](https://nuget.org/packages/NetPro.Authentication)
 
 对Microsoft.AspNetCore.Authentication认证组件的封装，简化使用
